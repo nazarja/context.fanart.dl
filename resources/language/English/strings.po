@@ -1,0 +1,10 @@
+# Kodi Media Center language file
+# Addon Name: Fanart DL
+# Addon id: context.fanart.dl
+msgid ""
+msgstr ""
+
+msgctxt "#32000"
+msgid "Save Fanart"
+msgstr ""
+
