@@ -18,11 +18,12 @@
 		<summary lang="en">Context Menu Fanart Downloader</summary>
 		<description lang="en">A script to download the current fanart background from the context menu to a folder on your system. Useful for building up your home screen fanart collection.</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<language></language>
 		<source>https://github.com/nazarja/script.fanart.dl/</source>
 		<assets>
 			<icon>resources/images/icon.png</icon>
 			<fanart>resources/images/fanart.jpg</fanart>
+			<screenshot>resources/images/1.png</screenshot>
+			<screenshot>resources/images/2.png</screenshot>
 		</assets>
 	</extension>
 </addon>
